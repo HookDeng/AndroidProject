@@ -1,0 +1,22 @@
+1416832585223	Rename package 'com.acastor.slidingmenu'
+1416832600926	Rename package 'com.acastor.slidingmenu.adapter'
+1416832614062	Rename package 'com.acastor.slidingmenu.model'
+1416879565204	Move compilation units
+1416880749692	Move compilation units
+1416883079515	Delete element
+1416883088652	Delete element
+1416883097301	Delete element
+1416883101719	Delete element
+1416883136192	Rename type 'FindPeopleFragment'
+1416883171270	Rename resource 'fragment_find_people.xml'
+1416883179372	Delete elements
+1416883186118	Delete element
+1416883761187	Rename type 'Creadit'
+1416902911691	Rename package 'com.acastor.quiz'
+1416902923513	Rename package 'com.acastor.quiz.adapter'
+1416902931943	Rename package 'com.acastor.quiz.model'
+1416902948778	Rename package 'com.acastor.quiz.sql'
+1416902961377	Rename package 'com.acastor.com.acastor.bible_quiz_whoswho.adapter'
+1416902971100	Rename package 'com.acastor.com.acastor.bible_quiz_whoswho.model'
+1416904769544	Extracts string 'This is created by Anthony A. Castor \nthe resource that had been use is from \nwww.religionresourcesonline.org' into R.string.this_is_created_by_anthony_a_castor_nthe_resource_that_had_been_use_is_from_nwww_religionresourcesonline_org
+1416904796060	Extracts string 'This is created by Anthony A. Castor \nthe resource that had been use is from \nwww.religionresourcesonline.org' into R.string.credit_text

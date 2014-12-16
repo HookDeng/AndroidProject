@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_create"
+        android:orderInCategory="100"
+        android:showAsAction="always|withText"
+        android:title="@string/action_create"
+        android:icon="@drawable/ic_action_create_note"/>
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:showAsAction="always"
+        android:title="@string/action_share">
+    </item>
+
+</menu>

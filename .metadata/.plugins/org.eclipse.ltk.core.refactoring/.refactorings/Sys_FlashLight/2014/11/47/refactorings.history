@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.androidhive.flashlight&apos; to &apos;com.acastor.flashlight&apos;&#x0A;- Original project: &apos;Sys_FlashLight&apos;&#x0A;- Original element: &apos;Sys_FlashLight/src/com.androidhive.flashlight&apos;&#x0A;- Renamed element: &apos;Sys_FlashLight/src/com.acastor.flashlight&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.androidhive.flashlight&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.androidhive.flashlight" name="com.acastor.flashlight" qualified="false" references="true" stamp="1416460106210" textual="false" version="1.0"/>
+</session>

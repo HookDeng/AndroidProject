@@ -1,0 +1,31 @@
+1415769784269	Rename package 'com.teamtreehouse.ribbit'
+1415769799348	Rename package 'com.teamtreehouse.ribbit.adapters'
+1415769810031	Rename package 'com.teamtreehouse.ribbit.ui'
+1415769826613	Rename package 'com.teamtreehouse.ribbit.utils'
+1415797796699	Rename type 'RibbitApplication'
+1415842597133	Rename type 'RibbitApplication'
+1415842627037	Rename package 'com.teamtreehouse.ribbit'
+1415842641439	Rename package 'com.teamtreehouse.ribbit.adapters'
+1415842656538	Rename package 'com.teamtreehouse.ribbit.ui'
+1415842666747	Rename package 'com.teamtreehouse.ribbit.utils'
+1415843131783	Delete element
+1415844163707	Delete element
+1415844312064	Delete elements
+1415844321989	Delete elements
+1415844357683	Delete element
+1415844362005	Delete element
+1415849020483	Rename type 'ShowMe'
+1415850089313	Delete element
+1415859179483	Rename package 'com.teamtreehouse.ribbit'
+1415859199370	Rename package 'com.teamtreehouse.ribbit.adapters'
+1415859211615	Rename package 'com.teamtreehouse.ribbit.ui'
+1415859221575	Rename package 'com.teamtreehouse.ribbit.utils'
+1415859305001	Rename package 'com.acastor.showme.ribbit.ui'
+1415868641816	Extracts string 'null' into R.string.action_share
+1415936481176	Copy compilation unit
+1415936721747	Copy file
+1415946474151	Rename field 'editText1'
+1415946490747	Rename field 'editText2'
+1415946540650	Rename field 'button1'
+1415953812224	Extracts string 'Current_Email' into R.string.current_email
+1415958449950	Rename field 'loginButton'

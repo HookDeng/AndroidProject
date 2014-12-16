@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.acastor.immersivemedia&apos; to &apos;com.acastor.milkcommunications&apos;&#x0A;- Original project: &apos;Link_MilkCommunications&apos;&#x0A;- Original element: &apos;Link_MilkCommunications/src/com.acastor.immersivemedia&apos;&#x0A;- Renamed element: &apos;Link_MilkCommunications/src/com.acastor.milkcommunications&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.acastor.immersivemedia&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.acastor.immersivemedia" name="com.acastor.milkcommunications" qualified="false" references="true" stamp="1416455115180" textual="false" version="1.0"/>
+</session>

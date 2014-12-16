@@ -1,0 +1,14 @@
+<resources>
+    <color name="background_purple">#2b3990</color>
+    <color name="light_gray">#bbbbbb</color>
+    <color name="apptheme_color">#2b3990</color>
+    <color name="light_purple_button">#7886df</color>
+    <color name="pressed_purple_button">#5f6bb5</color>
+    <color name="focused_purple_button">#7984c7</color>
+    <color name="text_color">#250054</color>
+    <color name="light_purple_background">#e9e4ed</color>
+    <color name="swipeRefresh1">#2b3990</color>
+    <color name="swipeRefresh2">#5b6ac9</color>
+    <color name="swipeRefresh3">#4a56a5</color>
+    <color name="swipeRefresh4">#7081e8</color>
+</resources>

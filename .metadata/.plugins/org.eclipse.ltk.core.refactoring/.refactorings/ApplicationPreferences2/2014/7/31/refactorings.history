@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.example.applicationpreferences.utils&apos; to &apos;ApplicationPreferences/src&apos;&#x0A;- Original project: &apos;ApplicationPreferences2&apos;&#x0A;- Destination element: &apos;ApplicationPreferences/src&apos;&#x0A;- Original element: &apos;ApplicationPreferences2/src/com.example.applicationpreferences.utils&apos;" description="Copy package" destination="=ApplicationPreferences/src" element1="/src&lt;com.example.applicationpreferences.utils" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1406465702286" version="1.0"/>
+</session>

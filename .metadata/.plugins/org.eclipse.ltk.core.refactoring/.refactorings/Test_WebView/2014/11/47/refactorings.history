@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.javatechig.droid.ui.WebviewActivity.java&apos; to &apos;WebViewClientDemoActivity.java&apos;&#x0A;- Original project: &apos;Test_WebView&apos;&#x0A;- Original element: &apos;com.javatechig.droid.ui.WebviewActivity.java&apos;&#x0A;- Renamed element: &apos;com.javatechig.droid.ui.WebViewClientDemoActivity.java&apos;" description="Rename compilation unit &apos;WebviewActivity.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.javatechig.droid.ui{WebviewActivity.java" name="WebViewClientDemoActivity.java" references="false" stamp="1416452001303" version="1.0"/>
+</session>

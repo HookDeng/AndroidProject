@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;action_share&apos; into R.string.action_share" description="Extracts string &apos;action_share&apos; into R.string.action_share" file="/Note_Taking_App/res/menu/main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/Note_Taking_App" rplc-all-java="false" rplc-all-xml="false" sel-end="476" sel-start="465" stamp="1416191571774" tok-esc="action_share" xml-attr-name="android:title"/>
+</session>

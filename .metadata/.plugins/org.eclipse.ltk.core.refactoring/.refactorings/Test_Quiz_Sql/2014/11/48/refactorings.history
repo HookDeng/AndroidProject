@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.acastor.test_quiz_sql.triviality&apos; to &apos;Question&apos;&#x0A;- Original project: &apos;Test_Quiz_Sql&apos;&#x0A;- Original element: &apos;com.acastor.test_quiz_sql.triviality&apos;&#x0A;- Renamed element: &apos;com.acastor.test_quiz_sql.Question&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;triviality&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.acastor.test_quiz_sql{triviality.java[triviality" matchStrategy="1" name="Question" qualified="false" references="true" similarDeclarations="false" stamp="1416833080038" textual="false" version="1.0"/>
+</session>

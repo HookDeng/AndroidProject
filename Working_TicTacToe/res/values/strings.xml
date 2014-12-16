@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">TicTacToe</string>
+    
+    <string name="help_info">" 
+ GAME:  
+        The aim of the game is to get, horizontal, vertical or the diagonal cells marked with the same symbol.
+        
+        
+ OPTIONS:
+        To access options, during game, press the MENU button of your phone.
+        
+        
+ Application Developed And Design By:Anthony Castor\n"</string>
+
+</resources>

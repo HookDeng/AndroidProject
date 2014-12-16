@@ -1,0 +1,8 @@
+Quiz Application
+================
+
+This is a simple quiz application I made for a client.  The rest of the documentation is intended for the client.
+
+Configuration
+---------------
+You can configure the app by editing [res/values/config.xml](https://github.com/jjmason/android-quiz/blob/master/res/values/config.xml)

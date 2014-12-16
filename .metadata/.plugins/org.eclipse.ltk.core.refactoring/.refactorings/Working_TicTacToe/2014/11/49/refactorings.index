@@ -1,0 +1,8 @@
+1417337887439	Move folder
+1417340032663	Rename package 'com.android.project'
+1417352348771	Delete element
+1417353041402	Extracts string ' GAME  \n The aim of the game is to get,\n horizontal, vertical or the\n diagonal cells marked with the\n same symbol.\n\n
+1417353307399	Extracts string ' GAME  \n The aim of the game is to get,\n horizontal, vertical or the\n diagonal cells marked with the\n same symbol.\n\n
+1417353852272	Extract superclass 'GlobalVariable'
+1417356081750	Delete elements
+1417356252207	Extract superclass 'GlobalVariable'

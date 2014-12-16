@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A.Castor Profile</string>
+    <string name="action_quit">Quit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Application Letter</item>
+        <item>Personal Info</item>
+        <item>Business Training</item>
+        <item>PROS APAC</item>
+        <item>Pascual Trading</item>
+        <item>Immersive Media</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_application_letter</item>
+        <item>@drawable/ic_personal_information</item>
+        <item>@drawable/ic_training</item>
+        <item>@drawable/ic_pros_apac_logo</item>
+        <item>@drawable/ic_pascual_trading</item>
+        <item>@drawable/ic_immersive_media</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="application">        
+        Date Septembers 27, 2014 \n\n\n
+
+
+		Dear Ma’am / Sir, \n\n
+
+		I am writing to express my interest in your current opening for an I.T. Manager Please accept my resume for your consideration. I have focused my career into Information Technology, and I am looking for an organization in which to apply my enthusiasm for I.T. Manager. \n\n
+
+		What I bring to the position is a combination of quality I.T. Services, Team Leadership and attention to detail. I work diligently to provide excellence in all my professional endeavors and have earned a reputation for my technical proficiency and results-drivenwork ethics. In my previous positions I worked to provide excellence in service to the Company. I would continue do the same for your organization. \n\n
+
+		My resume, which I have enclosed for your review, contains additional details about my professional accomplishments. I look forward to the opportunity to meet with you to discuss the qualifications I would bring to your organization. Thank you for your consideration.\n\n\n
+
+
+
+
+
+
+
+		Sincerely, \n\n
+
+		Anthony A. Castor\n
+		Enclosure: Resume</string>
+
+</resources>

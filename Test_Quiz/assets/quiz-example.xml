@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>  
+	<category>
+		<!-- The "title" tag is required for all categories -->
+		<title>Math Problems</title>
+		<!-- The "text" tag is optional, and gives some extra text to show in the 
+			list of categories -->
+		<text>Some math problems of varying difficulty</text>
+		<!-- Next come the questions. Note that the children of a "category" tag 
+			can actually come in any order. This xml is just organized for clarity. -->
+		<question>
+			<!-- The question text, required. Notice that you can use html in 
+				 the text, but it has to be escaped.  Instead of escaping it you
+				 can also put it in a CDATA section-->
+			<text>
+				What is the &lt;i&gt;approximate&lt;/i&gt; square root of 2?
+			</text>
+			<!-- Next come the choices. At least one choice is required, and the maximum 
+				that can reasonably fit in a fixed layout is 4. HTML is allowed here as well. -->
+			<choice>1</choice>
+			<choice>1.634</choice>
+			<choice>1.414</choice>
+			<choice>2</choice>
+			<!-- The answer tag contains the zero based index of the correct answer 
+				in the list of choices, in this case 2 for 1.414 -->
+			<answer>2</answer>
+		</question>
+		<question>
+			<!-- CDATA is another way to include html tags. -->
+			<text><![CDATA[Does <b>P</b> equal <b>NP</b>?]]>
+			</text>
+			<choice>Yes</choice>
+			<choice>No</choice>
+			<choice>I don't know</choice>
+			<answer>2</answer>
+		</question>
+	</category>
+	<category>
+		<!-- Questions can include an image and/or audio with the "image" and "audio" 
+			tags. The files are given as asset paths (relative to the "assets" directory). 
+			Any commonly used file format should be ok. Specific sounds formats are here: 
+			http://developer.android.com/guide/appendix/media-formats.html -->
+		<title>Media</title>
+		<text>Sounds and Images</text>  
+		<question>
+			<text>What animal made that sound?</text>
+			<audio>audio/cow-moo.wav</audio>
+			<choice>Pig</choice>
+			<choice>Alpaca</choice>
+			<choice>Cow</choice>
+			<answer>2</answer>
+		</question>
+		<question>
+			<text>
+				This image should be <![CDATA[<b>big!</b>]]>
+			</text>
+			<image>images/platlogo.png</image>
+			<choice>Just another choice...</choice>
+			<answer>0</answer>
+		</question>
+	</category>
+</quiz>

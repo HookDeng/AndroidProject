@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;main.java.com.example.picasso&apos; to &apos;com.example.picasso&apos;&#x0A;- Original project: &apos;SampleGridViewActivity&apos;&#x0A;- Original element: &apos;SampleGridViewActivity/src/main.java.com.example.picasso&apos;&#x0A;- Renamed element: &apos;SampleGridViewActivity/src/com.example.picasso&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;main.java.com.example.picasso&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;main.java.com.example.picasso" name="com.example.picasso" qualified="false" references="true" stamp="1414656495571" textual="false" version="1.0"/>
+</session>

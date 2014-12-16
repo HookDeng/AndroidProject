@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.acastor.thepiratebay&apos; to &apos;com.acastor.facebookfree&apos;&#x0A;- Original project: &apos;Link_Facebook&apos;&#x0A;- Original element: &apos;Link_Facebook/src/com.acastor.thepiratebay&apos;&#x0A;- Renamed element: &apos;Link_Facebook/src/com.acastor.facebookfree&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.acastor.thepiratebay&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.acastor.thepiratebay" name="com.acastor.facebookfree" qualified="false" references="true" stamp="1416663878884" textual="false" version="1.0"/>
+</session>
