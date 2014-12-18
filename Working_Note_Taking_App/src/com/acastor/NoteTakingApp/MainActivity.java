@@ -98,7 +98,7 @@ public class MainActivity extends ListActivity {
 	private void sharePost() {
 		Intent shareIntent = new Intent(Intent.ACTION_SEND);
 		shareIntent.setType("text/plain");
-		shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.acastor.NoteTakingApp");
+		shareIntent.putExtra(Intent.EXTRA_TEXT, "http://www.acastor.com/blog/posts/ac-note-taking");
 		startActivity(Intent.createChooser(shareIntent, getString(R.string.share_chooser_title)));
 	}
 	

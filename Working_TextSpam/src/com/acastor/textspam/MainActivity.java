@@ -103,7 +103,7 @@ public class MainActivity extends Activity {
     private void sharePost() {
 		Intent shareIntent = new Intent(Intent.ACTION_SEND);
 		shareIntent.setType("text/plain");
-		shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.acastor.textspam");
+		shareIntent.putExtra(Intent.EXTRA_TEXT, "http://www.acastor.com/blog/posts/text-spam");
 		startActivity(Intent.createChooser(shareIntent, getString(R.string.share_chooser_title)));
 	}
 }
