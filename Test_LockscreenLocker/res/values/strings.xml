@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Lockscreen Locker</string>
+
+	<string name="setup_message">You need to set up this app as a device administrator to be able to use it. Click the button to visit the Settings app to make this change. On the Security screen that should appear after pressing the button, look for a "Device administrators" entry, tap on it, then check "Lockscreen Locker" in the list.</string>
+
+	<string name="visit_settings">Visit Settings</string>
+
+	<string name="allow_camera">Allow the camera on the lockscreen?</string>
+
+	<string name="allow_widgets">Allow widgets on the lockscreen?</string>
+
+</resources>

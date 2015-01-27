@@ -1,0 +1,10 @@
+1421825713085	Rename package 'com.acastor.textspam'
+1421827357173	Extracts string 'Message' into R.string.message
+1421827520178	Extracts string 'Phone Number' into R.string.phone_number
+1421827536129	Extracts string 'Number of Message' into R.string.number_of_message
+1421827546747	Extracts string 'Send Now' into R.string.send_now
+1421828699646	Rename field 'txtPhonenumber'
+1421829464631	Extracts string 'Phone Number' into R.string.phone_number2
+1421829508219	Extracts string 'Message' into R.string.message2
+1421829525776	Extracts string 'Number of Message' into R.string.number_of_message2
+1421829536098	Extracts string 'Send Now' into R.string.send_now2

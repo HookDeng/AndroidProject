@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<TextView
+		android:id="@+id/setupMessage"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/setup_message"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:visibility="gone"/>
+
+	<Button
+		android:id="@+id/setup"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:onClick="showSettings"
+		android:text="@string/visit_settings"
+		android:visibility="gone"/>
+
+	<View
+		android:id="@+id/divider"
+		android:layout_width="match_parent"
+		android:layout_height="2dip"
+		android:layout_marginBottom="4dip"
+		android:layout_marginTop="4dip"
+		android:background="#FF000000"
+		android:visibility="gone"/>
+
+	<Switch
+		android:id="@+id/camera"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/allow_camera"/>
+
+	<Switch
+		android:id="@+id/widgets"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="4dip"
+		android:text="@string/allow_widgets"/>
+
+</LinearLayout>

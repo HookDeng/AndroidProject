@@ -12,27 +12,32 @@
 		<link>
 			<name>.link10</name>
 			<type>2</type>
-			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-20</location>
+			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-19</location>
 		</link>
 		<link>
 			<name>.link11</name>
 			<type>2</type>
+			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-20</location>
+		</link>
+		<link>
+			<name>.link12</name>
+			<type>2</type>
 			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-14</location>
 		</link>
 		<link>
-			<name>.link14</name>
+			<name>.link15</name>
+			<type>2</type>
+			<location>/Users/MilkCommunications/Documents/MyDocumentsCAST/MyProject/Programs/sdk/sources/android-16</location>
+		</link>
+		<link>
+			<name>.link5</name>
 			<type>2</type>
 			<location>/Users/MilkCommunications/Documents/MyDocumentsCAST/MyProject/Programs/sdk/sources/android-15</location>
 		</link>
 		<link>
-			<name>.link6</name>
-			<type>2</type>
-			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-17</location>
-		</link>
-		<link>
 			<name>.link7</name>
 			<type>2</type>
-			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-19</location>
+			<location>/Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-17</location>
 		</link>
 		<link>
 			<name>.link8</name>
