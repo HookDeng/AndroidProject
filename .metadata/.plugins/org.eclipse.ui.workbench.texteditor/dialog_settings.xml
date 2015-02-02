@@ -8,14 +8,14 @@
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="zst"/>
+			<item value="buihha"/>
 			<item value="_btnPageUp"/>
 			<item value="change_skin"/>
 			<item value="button_listener"/>
 			<item value="b1"/>
 			<item value="new_game"/>
 			<item value="analysis_array"/>
-			<item value="analysis_arr"/>
-			<item value="R.layout"/>
 		</list>
 		<list key="replacehistory">
 		</list>

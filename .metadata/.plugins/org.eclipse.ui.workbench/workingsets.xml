@@ -187,5 +187,11 @@
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422242671867_182" label="Window Working Set" name="Aggregate for window 1422242671867"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422256216901_183" label="Window Working Set" name="Aggregate for window 1422256216901"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422256350636_184" label="Window Working Set" name="Aggregate for window 1422256350636"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422349533227_185" label="Window Working Set" name="Aggregate for window 1422349533227"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422414484048_186" label="Window Working Set" name="Aggregate for window 1422414484048"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422516679532_187" label="Window Working Set" name="Aggregate for window 1422516679532"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422518304570_188" label="Window Working Set" name="Aggregate for window 1422518304570"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422518608624_189" label="Window Working Set" name="Aggregate for window 1422518608624"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422520508236_190" label="Window Working Set" name="Aggregate for window 1422520508236"/>
 <mruList name="GoogleMapV2"/>
 </workingSetManager>
